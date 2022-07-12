@@ -16,11 +16,11 @@ phamous2day.Credits.prototype = {
     this.createParagraph('Dave');
 
     this.createTitle('Cast in order of appearance');
-    this.createParagraph('Simone');
+    this.createParagraph('Simonne');
     this.createParagraph('Hansani');
     this.createParagraph('Papa');
     this.createParagraph('Julius');
-    this.createParagraph('Niko');
+    this.createParagraph('Nikko');
     this.createParagraph('Minh');
     this.createParagraph('Mama');
     this.createParagraph('Briant');
